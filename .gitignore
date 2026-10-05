@@ -1,0 +1,31 @@
+# Visual Studio / MSBuild
+.vs/
+x64/
+x86/
+Debug/
+Release/
+[Bb]in/
+[Oo]bj/
+*.user
+*.aps
+*.pch
+*.ipch
+*.log
+*.tlog
+*.idb
+*.pdb
+*.ilk
+*.iobj
+*.ipdb
+*.obj
+*.res
+*.recipe
+*.lastbuildstate
+*.unsuccessfulbuild
+
+# Backups and archives
+*.zip
+*.rar
+*.7z
+*.bak
+*.tmp
